@@ -6,21 +6,23 @@ namespace DataStructure
 {
     class LinkedList : Interface1
     {
-        public void AddNewElement(int x)
+        public int AddNewElement(int x)
         {
-
+            return 0;
         }
-        public void Remove()
+        public int RemoveElement()
         {
-
+            return 0;
         }
         public void Sort()
         {
 
         }
-        public void DeleteElement()
+        public void Display()
         {
 
         }
+
+        
     }
 }

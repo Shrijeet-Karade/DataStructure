@@ -8,11 +8,11 @@ namespace DataStructure
     {
 
         
-        void AddNewElement(int x);
+        int AddNewElement(int x);
         
-        void DeleteElement();
+        int RemoveElement();
 
-        void Remove();
+        void Display();
 
 
         void Sort();
